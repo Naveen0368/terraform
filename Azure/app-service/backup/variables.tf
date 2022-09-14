@@ -1,4 +1,4 @@
-variable "prefix" {
+variable "prefix" {asasa
   description = "The prefix used for all resources in this example"
 }
 
